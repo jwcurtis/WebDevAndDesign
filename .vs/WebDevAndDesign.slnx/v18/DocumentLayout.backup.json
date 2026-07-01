@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\Curtis.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignment3\\Curtis.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\bg1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignment3\\bg1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\properties.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignment3\\properties.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\ex8.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignment3\\ex8.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:227143755:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1141471823:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curtis.html",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\Curtis.html",
+              "RelativeDocumentMoniker": "src\\Assignment3\\Curtis.html",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\Curtis.html",
+              "RelativeToolTip": "src\\Assignment3\\Curtis.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-23T19:23:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex8.css",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\ex8.css",
+              "RelativeDocumentMoniker": "src\\Assignment3\\ex8.css",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\ex8.css",
+              "RelativeToolTip": "src\\Assignment3\\ex8.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-23T19:05:18.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "properties.html",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\properties.html",
+              "RelativeDocumentMoniker": "src\\Assignment3\\properties.html",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\properties.html",
+              "RelativeToolTip": "src\\Assignment3\\properties.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-23T19:05:17.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bg1.html",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\bg1.html",
+              "RelativeDocumentMoniker": "src\\Assignment3\\bg1.html",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\GithubRepos\\WebDevAndDesign\\src\\Assignment3\\bg1.html",
+              "RelativeToolTip": "src\\Assignment3\\bg1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-23T19:04:58.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
